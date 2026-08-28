@@ -23,26 +23,6 @@ The repository is organised into five parts, each corresponding to a major NLP t
 
 ---
 
-## Repository Structure
-
-```text
-nlp-language-models-coursework/
-├── README.md
-│
-├── reports/
-│   ├── Part_A_Neural_Machine_Translation.pdf
-│   ├── Part_B_BERT_ABSA.pdf
-│   ├── Part_C_Natural_Language_Generation.pdf
-│   ├── Part_D_Social_Media_Processing.pdf
-│   └── Part_E_T5_Summarisation_Data_Generation.pdf
-│
-└── notebooks/
-    ├── Part_A_Neural_Machine_Translation.ipynb
-    ├── Part_B_BERT_ABSA.ipynb
-    ├── Part_C_Natural_Language_Generation.ipynb
-    ├── Part_D_Social_Media_Processing.ipynb
-    └── Part_E_T5_Summarisation_Data_Generation.ipynb
-```
 
 ---
 
