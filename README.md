@@ -1,12 +1,9 @@
 # Natural Language Processing & Language Models
 
-Coursework project covering **neural machine translation, BERT-based sentiment analysis, natural language generation, social-media modelling, and T5-based summarisation and text generation**.
 
 ## Overview
 
-This repository contains the reports and Jupyter notebooks developed for the **Neural Networks and NLP** module at Queen Mary University of London.
-
-The coursework explored a range of core and modern NLP methods, including:
+This repository contains the reports and Jupyter notebooks for a range of core and modern NLP methods, including:
 
 - Vietnamese-to-English neural machine translation
 - Encoder-decoder models with attention
@@ -85,7 +82,7 @@ The experiments examined:
 
 ### Main Findings
 
-Beam search achieved a higher sequence probability than greedy decoding because it retained multiple candidate continuations instead of selecting only the highest-probability token at each step.
+Beam search achieved a higher sequence probability than greedy decoding because it retained multiple candidate continuations instead of selecting only the highest probability token at each step.
 
 However, standard beam search still produced repetitive text.
 
@@ -131,7 +128,7 @@ The experiments also showed that simple lexical augmentation did not consistentl
 
 ## Part E: T5 Summarisation and Data Generation
 
-The final part of the coursework explored transformer-based text generation using T5.
+The final part explored transformer-based text generation using T5.
 
 ### XSum Dataset Analysis
 
@@ -179,8 +176,6 @@ The model learned to generate text based on the provided keywords, but qualitati
 
 ## Key Skills Demonstrated
 
-This coursework provided practical experience with:
-
 - Python
 - PyTorch
 - Hugging Face Transformers
@@ -216,8 +211,7 @@ The experiments highlighted several recurring themes across NLP tasks:
 ---
 
 ## Project Information
-
-**Module:** Neural Networks and NLP  
+ 
 **Institution:** Queen Mary University of London  
 **Programme:** MSc Machine Learning for Visual Data Analytics  
 **Year:** 2026
